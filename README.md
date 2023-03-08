@@ -7,6 +7,8 @@ Feel free to create an [issue or issues](https://github.com/Ohm-Ventures/Metacyc
 
 [Warranty Doc](https://github.com/Ohm-Ventures/Metacycle/blob/main/Manuals/Metacycle_Warranty.pdf)
 
+[VOTOL EM Controller Program Manual](https://github.com/Ohm-Ventures/Metacycle/blob/main/Manuals/VOTOL_EM_Controller_ProgramManual.pdf)
+
 ### Ohm-Ventures Overview:
 
 Electrification of cars, trucks, motorcycles and the like have a tremendous opportunity to provide an exciting ownership experience for everyone. However many times the design decisions of the products we live with day to day are either misguided or suboptimal. The intention in this community is to break down barriers that lead to frustrating product experiences in an open and collaborative way. We intend to do the following.
